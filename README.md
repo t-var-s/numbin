@@ -1,3 +1,5 @@
+# numbin
+
 Pass numbers as arguments to get their binary representation.
 
 <img width="389" alt="2023-02-25_20 23 37" src="https://user-images.githubusercontent.com/6660327/221378054-62addb21-4f92-47be-a7ea-19b740f62b9c.png">
