@@ -19,3 +19,5 @@ Add `-r` or `--reverse` to convert from binary (and back).
 
 
 This is my first cargo project 🦀 it has no dependencies and only some basic testing. 
+
+[Getting started with Rust](https://www.rust-lang.org/learn/get-started)
